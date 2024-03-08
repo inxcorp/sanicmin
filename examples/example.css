@@ -1,0 +1,14 @@
+.example {
+    color: #00ff00;
+    background-color: #000000;
+}
+
+.example2 {
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.button {
+    border-radius: 0.5rem;
+    border: solid 0 #00000000;
+}

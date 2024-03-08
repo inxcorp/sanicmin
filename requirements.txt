@@ -1,0 +1,4 @@
+htmlmin
+cssmin
+jsmin
+sanic

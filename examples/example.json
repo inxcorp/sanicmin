@@ -1,0 +1,19 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 80,
+        "owner": {
+            "auth": {
+                "login": "root",
+                "password": "1234"
+            }
+        }
+    },
+    "app": {
+        "name": "example-app"
+    },
+    "cat": {
+        "name": "John",
+        "color": "white-black"
+    }
+}
