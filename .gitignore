@@ -1,2 +1,4 @@
 dist
 sanicmin.egg-info
+cache
+__pycache__

@@ -12,7 +12,7 @@ app = Sanic(name="example-app")
 
 
 # attach SanicMin to your Sanic app in 2 lines of code
-sanic_min = SanicMin(enable_storage=True)
+sanic_min = SanicMin()
 sanic_min.apply_middleware(app=app)
 
 

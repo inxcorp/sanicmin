@@ -28,3 +28,4 @@ __version__ = "1.0"
 
 
 from .__sanicmin import SanicMin
+from .__sanicmin import MemoryAmount
