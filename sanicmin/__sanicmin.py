@@ -1,6 +1,6 @@
 from htmlmin import minify as html_min
-from cssmin import cssmin as css_min
-from jsmin import jsmin as js_min
+from rcssmin import cssmin as css_min
+from rjsmin import jsmin as js_min
 from .__jsonmin import json_min
 from sanic import Sanic
 from sanic import HTTPResponse
