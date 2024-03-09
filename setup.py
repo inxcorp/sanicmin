@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="sanicmin",
-    version="1.0.2",
+    version="1.0.3",
     packages=find_packages(),
     author="Infernox-Dev",
     description="A plugin for Sanic framework to minimize data transfer",
@@ -11,8 +11,8 @@ setup(
     url="https://github.com/infernox-dev/sanicmin",
     install_requires=[
         "htmlmin",
-        "cssmin",
-        "jsmin",
+        "rcssmin",
+        "rjsmin",
         "sanic",
     ],
     classifiers=[
