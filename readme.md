@@ -8,7 +8,7 @@
   <h3 align="center">SanicMin</h3>
 
   <p align="center">
-    A simple plugin for the Sanic framework that reduces the size of transferred HTML, CSS, JS and JSON files by minifying them 
+    A simple plugin for the Sanic framework that reduces the size of transferred HTML, CSS, JS and JSON files by minifying them (documentation temporarily unavailable, will be available again soon)
     <br />
     <a href="https://sanicmin-docs.inxcorp.org"><strong>Explore the docs »</strong></a>
     <br />
